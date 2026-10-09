@@ -1,2 +1,13 @@
-# Crime-Data-Analysis
-This is a start of my portfolio regarding data analysis, and to build my skills and present my knowledge within the Compliance and Criminology field in data.
+data-analytics-portfolio/
+├── README.md
+├── 01-survey-analysis/
+│   ├── README.md
+│   ├── charts/
+│   └── report.pdf
+├── 02-tableau-dashboard/
+│   ├── README.md
+│   └── screenshots/
+└── 03-compliance-analytics/
+    ├── README.md
+    ├── sample-data.csv
+    └── report.pdf
