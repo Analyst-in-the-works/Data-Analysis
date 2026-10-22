@@ -6,7 +6,7 @@ My background includes a degree in Criminology, a minor in Sociology, program an
 
 ## Tools and Technologies
 
-* **Google Sheets:** Data cleaning, formulas, pivot tables, descriptive statistics, and analysis
+* **Librespreadsheets:** Data cleaning, formulas, pivot tables, descriptive statistics, and analysis
 * **Tableau Public:** Interactive dashboards and data visualization
 * **GitHub:** Project documentation, version control, and portfolio presentation
 * **Google Docs:** Research summaries and analytical reports
