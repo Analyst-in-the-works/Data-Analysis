@@ -15,7 +15,7 @@ My background includes a degree in Criminology, a minor in Sociology, program an
 
 ### 1. Survey Data Analysis
 
-**Status:** Planned
+**Status:** In Progress
 
 Analyze a survey dataset to explore patterns, relationships, and data quality.
 
