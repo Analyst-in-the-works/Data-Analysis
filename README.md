@@ -26,7 +26,7 @@ Analyze a survey dataset to explore patterns, relationships, and data quality.
 
 **Tools:** Excel and LibraLibrary Cal
 
-https://github.com/jillxingxirei-creator/Data-Analysis.git
+https://github.com/jillxingxirei-creator/Data-Analysis/tree/AI-Policy-Review
 
 ### 2. Public Data Visualization Dashboard
 
