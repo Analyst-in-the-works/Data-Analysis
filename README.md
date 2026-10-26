@@ -24,7 +24,9 @@ Analyze a survey dataset to explore patterns, relationships, and data quality.
 * Create charts and summarize findings.
 * Document limitations and methodological decisions.
 
-**Tools:** Google Sheets
+**Tools:** Excel and LibraLibrary Cal
+
+https://github.com/jillxingxirei-creator/Data-Analysis.git
 
 ### 2. Public Data Visualization Dashboard
 
@@ -68,3 +70,4 @@ For each project, I aim to document:
 I have an academic background in Criminology and Sociology, along with experience in program analysis, regulatory and compliance-related work, and data analysis. I am continuing to develop my technical skills through practical projects that connect data to evidence-based decision-making.
 
 *This portfolio is a work in progress. Project descriptions and links will be updated as projects are completed.*
+
