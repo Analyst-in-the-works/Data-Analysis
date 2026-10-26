@@ -7,4 +7,10 @@ I then looked at various levels of governments (13) within the respective countr
 I then quantified the results, creating percentages of the themes in the respective topics ( OECD, G7 Hiro, Other).
 I then created Bar graphs for the respective topics and found the following results
 ## Results
+
+<img width="928" height="525" alt="image" src="https://github.com/user-attachments/assets/d8fd9622-7379-422b-84a9-3848aad3e68f" />
+
+<img width="1078" height="621" alt="image" src="https://github.com/user-attachments/assets/fcb4664e-a07e-4abc-b740-875a3d46ccc2" />
+
+
 ## Future Considerations
