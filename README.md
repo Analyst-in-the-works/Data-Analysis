@@ -12,5 +12,9 @@ I then created Bar graphs for the respective topics and found the following resu
 
 <img width="1078" height="621" alt="image" src="https://github.com/user-attachments/assets/fcb4664e-a07e-4abc-b740-875a3d46ccc2" />
 
+<img width="762" height="437" alt="image" src="https://github.com/user-attachments/assets/7e070c5d-7cfe-47a3-b9d1-c4f033653801" />
+
+## Find Summary
+
 
 ## Future Considerations
